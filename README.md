@@ -1,8 +1,8 @@
 README File for EpicTeam Project
 =================================
-12/29/2015
+01/16/2016
 
-This repository is for the Epic Team website.
+This repository is for the Epic Scouts website.
 
 It contains all the code for getting the website to run, including: php, html,
 javascript, and sql.   In addition it contains various documentation files.
