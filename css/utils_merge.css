@@ -1,0 +1,31 @@
+/* --------------------------------------------------------------------
+** utils_merge.css -- CSS to layout for WO merge form.
+**
+** Created 01/07/16 DLB
+** --------------------------------------------------------------------
+*/
+
+#utils_merge_form {width: 300px;}
+
+#utils_merge_WID1 {}
+#utils_merge_WID1_block {width: 250px;}
+#utils_merge_WID1_label {}
+#utils_merge_WID1_field {}
+
+#utils_merge_WID2 {}
+#utils_merge_WID2_block {width: 250px;}
+#utils_merge_WID2_label {}
+#utils_merge_WID2_field {}
+
+#utils_merge_Sure {}
+#utils_merge_Sure_block {width: 250px;}
+#utils_merge_Sure_label {}
+#utils_merge_Sure_field {}
+
+#utils_visit_button {margin-left: 100px; margin-top: 30px;}
+#utils_visit_button a {color: blue; text-decoration: none;}
+#utils_visit_button a:visited {color: blue; text-decoration: none;}
+#utils_visit_button a:link {color: blue; text-decoration: none;}
+#utils_visit_button a:hover {color: blue; text-decoration: none;}
+
+.inputfrom_instructions {}

@@ -1,0 +1,18 @@
+/* --------------------------------------------------------------------
+** wo_head.css -- For the title and WO string at top of display pages.
+**
+** Created 01/03/16 DLB
+** --------------------------------------------------------------------
+*/
+
+.wo_top_block {}
+.wo_top_label {}
+.wo_top_value {}
+
+#wo_Title_block {height: 30px; width: 700px; margin-top: 10px; margin-left: 8px; color: #444444; font-size: 12pt;}
+#wo_Title_label {float: left; width: 60px; }
+#wo_Title_value {float: left; font-size: 20pt; margin-bottom: 20px; width: 550px;}
+
+#wo_WIDStr_block {width: 120px; height: 0px; position: relative; top: -30px; left: 500px;}
+#wo_WIDStr_label {}
+#wo_WIDStr_value {font-size: 20pt; font-weight: bold;}

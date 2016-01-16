@@ -1,0 +1,68 @@
+UserID,UserName,PasswordHash,LastName,FirstName,NickName,Title,Email,Tags,IPT,Active
+1,dbrandon,41Ecpu4Ts95Uk,Brandon,Dalbert,Dal,Mentor,dalbrandon@gmail.com,Worker/Editor/Admin/Mentor,CNC,1
+2,jdeguzman,41FbnvzbqGh5E,"De Guzman",Joni,Joni,Mentor,jdeguzman15@gmail.com,Worker/Mentor/Editor,Programming,1
+3,jdekker,41YxH1wDsZzy.,Dekker,Jim,Jim,Mentor,jim.dekker@gte.net,Worker/Mentor,Purchasing,1
+4,gdevries,41146q48HUmr.,DeVries,Ginger,Ginger,Mentor,ginger.devries@gmail.com,Worker/Editor/Mentor/Admin,IT,1
+5,padevries,41T7fdpRoa7NQ,DeVries,Paul,Paul,"Head Coach",phd.devries@gmail.com,Editor/Mentor/HeadCoach,Management,1
+6,kdominguez,41cAQAYTt4ZOg,Dominguez,Kyle,Kyle,Mentor,robo.davinci7@gmail.com,Worker/Mentor/Editor,CAD,1
+7,ddominik,416dIx95SUiLw,Dominik,Dan,Dan,Mentor,dandominik@ca.rr.com,Worker/Mentor,Strategy,1
+8,rdominik,41pU0HB0bJdC6,Dominik,Rob,Rob,"Chief Mentor",robjendominik@verizon.net,Editor/Mentor/HeadCoach,Business,1
+9,dfieldhouse,41e60YsISVGGQ,Fieldhouse,David,David,Mentor,,Mentor,CAD,1
+10,kfleming,41cH3K9cbgcHo,Fleming,Kyle,Kyle,Mentor,,Worker/Mentor/Editor,Programming,1
+11,wfurlong,41KPRUb8kpBqg,Furlong,William,William,Mentor,wrfiii@ca.rr.com,Worker/Mentor/Editor,Strategy,1
+12,dlong,41Xg06mxVeocI,Long,Don,Don,Mentor,Re4don@msn.com,Worker/Mentor/Editor,Build,1
+13,bmadrid,41vuEdivoeOmA,Madrid,Brian,Brian,Mentor,bmad@ucla.edu,Worker/Editor/Admin/Mentor,Management,1
+14,mormonde,41PswgXVrdOfI,Ormonde,Mike,Mike,Mentor,,Worker/Mentor,,1
+15,sshibley,41DZB/fUGSWyc,Shibley,Sarah,Sarah,Mentor,,Editor/Admin/Mentor/Worker,"Admin Web",1
+16,caardema,41FJGhUy89qNg,Aardema,Chase,Chase,,,Worker,Programming,1
+17,rcarranza,413acuRie4cm6,Carranza,Ricky,Ricky,,,Worker,CAD,1
+18,dchen,41Gs9xQPI5ZwA,Chen,Derek,Derek,,,Worker,CNC,1
+19,pedevries,41RlK/t2JbUEY,DeVries,Peter,Peter,"IT Lead",pdevries16@student.vcschools.org,Worker/IPTLead,"3D Printing",1
+20,cdominik,41Ix7TMncS.0s,Dominik,Chris,Chris,"CAD Lead",CDominik16@student.vcschools.org,Worker/IPTLead,CAD,1
+21,gfua,41ZC0s.dDrD2Q,Fua,Gavin,Gavin,,,Worker,Programming,1
+22,ngardner,41hZ04sNE7rGM,Gardner,Nathan,Nathan,"Admin Web Lead",brytstahr@yahoo.com,Worker/Editor/IPTLead,"Admin Web",1
+23,tghebreyesus,41wKsjPNzKM3M,Ghebreyesus,Temesghen,Temesghen,,Tghebreyesus18@student.vcschools.org,Worker/IPTLead,Safety,1
+24,yghebreyesus,41GGuu5zEXFpI,Ghebreyesus,Yoel,Yoel,,,Worker,CAD,1
+25,cgranch,41kVnGEd6emgY,Granch,Caleb,Caleb,"Build Lead",cgranch16@student.vcschools.org,Worker/IPTLead/Captain/Editor,Build,1
+26,ahaitz,41NWbmImurlwc,Haitz,Andrew,Andrew,"Programming Lead",andrew.haitz@gmail.com,Worker/IPTLead/Captain,Programming,1
+27,jkeeton,41FjvU41BT2x6,Keeton,Johnny,Johnny,,,Worker,,1
+28,jkim,41wwuI3C1QICE,Kim,Jack,Jack,,,Worker,Programming,1
+29,pkooi,413y.F7hhFPog,Kooi,Payton,Payton,,,Worker,Build,1
+30,jlisti,41LvI8ruyURak,Listi,Jessica,Jessica,,,Worker,Business,1
+31,blong,41o4/VqpXzliA,Long,Brennan,Brennan,,,Worker,CAD,1
+32,dlozada,41ddqxQfkQUY6,Lozada,Danielle,Danielle,,,Worker,"3D Printing",1
+33,enagahashi,41tKX0Hu4OK36,Nagahashi,Ean,Ean,,,Worker,Programming,1
+34,nnewbold,41ZbYW8JjyysI,Newbold,Nathaniel,Nathaniel,,,Worker,Build,1
+35,dnichols,4129p0kuOtl3.,Nichols,Daniel,"Daniel ",,,Worker,Build,1
+36,dotoole,413tdubFocnms,"O Toole",David,David,,,Worker,Business,1
+37,jpoole,41qs7o.KZA3Zg,Poole,Jelani,Jelani,,,Worker,Build,1
+38,grabideaux,41zecf6FsRJaA,Rabideaux,Grant,Grant,,,Worker,Build,1
+39,srange,41hL/7QAtnT5U,Range,Samuel,Samuel,,,Worker,,1
+40,krodriguez,418uqKDKo3Dg2,Rodriguez,Kaitlyn,Kaitlyn,,,Worker,Build,1
+41,prose,41EfWBDoahUF.,Rose,Patrick,Patrick,,,Worker/Editor,"Admin Web",1
+42,msigala,416KZWnxHecjw,Sigala,Matthew,Matthew,"Business Lead",,Worker/IPTLead,Business,1
+43,msilva,411F95WQh/Vjk,Silva,Madison,Madison,,,Worker,Safety,1
+44,Spare1,41Ay.SZJ18Fkc,Spare1,Spare1,,,,Guest,,1
+45,Spare2,41psP1Pv1EphM,Spare2,Spare2,,,,Guest,,1
+46,kstock,41ehtypsJmQx2,Stock,Kristen,Kristen,,,Worker,Business,1
+47,esu,41XCEkDxGe3gg,Su,Ellen,Ellen,,,Worker,CNC,1
+48,stefera,41.gFXWQcTRPA,Tefera,Saron,Saron,,,Worker,CAD,1
+49,cthacker,41fkCYzdq3t2U,Thacker,Caleb,Caleb,,,Worker,Programming,1
+50,rvreeke,41ZaAFdheLBf6,Vreeke,Ryan,Ryan,,,Worker,Programming,1
+51,swang,41E0Jhxg7ZoME,Wang,Sam,Sam,,,Worker,CAD,1
+52,rward,41LHHGFMXWa02,Ward,Rebecca,Rebecca,,,Worker,"Admin Web",1
+53,tward,41Tn8KnWfhVgw,Ward,Tucker,Tucker,,,Worker,,0
+54,jwu,41zeSrdGYldyw,Wu,Jack,Jack,,hongjunwu@hotmail.com,Worker/IPTLead,CNC,1
+55,tzhang,41Ow49tOrhl3I,Zhang,Tab,Tab,"Web Lead",tabtianyizhang@gmail.com,Worker/IPTLead,Web,1
+56,rhabol,41uARX8GFAx4g,Habol,Rose,Rose,,,Worker,Business,1
+57,kmeade,419tGpzXxkprA,Meade,Khalil,Khalil,,,Worker,Build,1
+58,jrabideaux,41OgB5wJ5PwOo,Rabideaux,Jeff,Jeff,Mentor,,Worker/Mentor,Build,1
+59,sgranch,41ICP62gviliA,Granch,Stan,Stan,Mentor,,Worker/Mentor,Business,1
+60,drupprecht,4165DoIfG69Po,Rupprecht,Dan,Dan,Mentor,Drupprecht@verizon.net,Worker/Mentor,CNC,1
+61,ebennett,41FKwBumYJIUs,Bennett,Ethan,Ethan,Mentor,,Worker/Mentor,,1
+62,shoekstra,419AZwdu.FeGQ,Hoekstra,Steve,Steve,Mentor,,Guest/Mentor,,1
+63,teghebreyesus,41zeEWzdv1uzc,Tesfa,Ghebreyesus,Tesfa,Mentor,,Worker/Mentor,Build,1
+64,guest,41SYomq926ukg,Guest,Guest,,,,Admin/guest,Build,1
+65,lfurlong,41mHfT76wGBdQ,Furlong,Logan,,,Fearofcourage@gmail.com,Mentor/Worker/Editor,CAD,0
+66,chuckaardema,41a2cu0Bxqofc,Aardema,Chuck,,,,Worker/Mentor,Build,1
+

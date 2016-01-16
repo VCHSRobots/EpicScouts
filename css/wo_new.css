@@ -1,0 +1,43 @@
+/* --------------------------------------------------------------------
+** wo_new.css -- CSS to layout work order entry form.
+**
+** Created 01/01/16 DLB
+** --------------------------------------------------------------------
+*/
+
+#wo_new_Title {clear: both; width: 600px;}
+#wo_new_Title_block {}
+#wo_new_Title_label {}
+#wo_new_Title_field {}
+
+#wo_new_Project {float: left; width: 240px; height: 100px;}
+#wo_new_Project_block {}
+#wo_new_Project_label {}
+#wo_new_Project_field {}
+
+#wo_new_DateNeedBy {float: left; width: 200px; margin-left: 5px; height: 100px;}
+#wo_new_DateNeedBy_block {}
+#wo_new_DateNeedBy_label {}
+#wo_new_DateNeedBy_field {}
+
+#wo_new_Priority {float: left; width: 130px; margin-left: 20px; height: 100px;}
+#wo_new_Priority_block {}
+#wo_new_Priority_label {}
+#wo_new_Priority_field {}
+
+#wo_new_Requestor {float: left; width: 240px; position: relative; top:-10px; }
+#wo_new_Requestor_block {}
+#wo_new_Requestor_label {}
+#wo_new_Requestor_field {}
+
+#wo_new_Receiver {float: left; width: 240px; position: relative; top: -10px;}
+#wo_new_Receiver_block {}
+#wo_new_Receiver_label {}
+#wo_new_Receiver_field {}
+
+#wo_new_Description {clear: both; }
+#wo_new_Description_block {}
+#wo_new_Description_label {}
+#wo_new_Description_field { font-size: 16px;  font-family: monospace;}
+ 
+#view_button {}

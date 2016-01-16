@@ -1,0 +1,37 @@
+/* --------------------------------------------------------------------
+** wo_yourwork.css -- CSS to layout yourwork pages.
+**
+** Created 01/01/16 DLB
+** --------------------------------------------------------------------
+*/
+
+.your_submit {margin-top: 20px;}
+
+#username_block {margin-top: 10px; margin-bottom: 20px; }
+#username_label {float: left; font-size: 14pt; color: #444444;}
+#username_value {float: left; font-size: 16pt; margin-left: 10px;}
+
+#pagetext {margin-top: 20px; }
+
+.your_submit_head_1 {text-align: left; width: 100px; text-decoration: underline;}
+.your_submit_head_2 {text-align: left; width: 300px; text-decoration: underline;}
+.your_submit_head_3 {text-align: left; width: 150px; text-decoration: underline;}
+.your_submit_head_4 {text-align: left; width: 50px; text-decoration: underline;}
+.your_submit_head_5 {text-align: left; width: 50px; text-decoration: underline;}
+.your_submit_head_6 {text-align: left; width: 50px; text-decoration: underline;}
+.your_submit_head_7 {text-align: left; width: 50px; text-decoration: underline;}
+.your_submit_head_8 {text-align: left; width: 50px; text-decoration: underline;}
+
+
+.your_submit_col_1 {text-align: left; font-weight: normal;}
+.your_submit_col_1 a {text-decoration: none; font-size: 12pt; }
+.your_submit_col_1 a:hover {text-decoration: underline;}
+.your_submit_col_1 a:visited {color: blue;}
+.your_submit_col_2 {text-align: left; font-weight: normal;}
+.your_submit_col_3 {text-align: left; font-weight: normal;}
+.your_submit_col_4 {text-align: left; font-weight: normal;}
+.your_submit_col_5 {text-align: left; font-weight: normal;}
+.your_submit_col_6 {text-align: left; font-weight: normal;}
+.your_submit_col_7 {text-align: left; font-weight: normal;}
+.your_submit_col_8 {text-align: left; font-weight: normal;}
+

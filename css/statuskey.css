@@ -1,0 +1,11 @@
+/* --------------------------------------------------------------------
+** statuskey.css -- CSS to layout status key.
+**
+** Created 01/04/16 SS
+** --------------------------------------------------------------------
+*/
+
+.statuskey_head {text-align: left;font-size: 12pt; text-decoration: none; font-weight: bold;}
+.statuskey_keyval {text-align: left; font-size: 12pt; text-decoration: none;font-weight: normal;}
+.statuskey_area {float: left; padding: 5px;  background-color: #dcdcda; min-height: 600px; width:auto; }
+

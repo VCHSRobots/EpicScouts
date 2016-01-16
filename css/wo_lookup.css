@@ -1,0 +1,15 @@
+/* --------------------------------------------------------------------
+** wo_lookup.css -- CSS to layout for WO lookup form.
+**
+** Created 01/02/16 DLB
+** --------------------------------------------------------------------
+*/
+
+#wo_lookup_area_1 {width: 200px;}
+#wo_lookup_WID {clear: both; width: 300px;}
+#wo_lookup_WID_block {}
+#wo_lookup_WID_label {float: left; width: 200px; }
+#wo_lookup_WID_field {float: left; width: 150px; }
+
+.inputfrom_instructions {fotn-size: 18pt; width: 500px;}
+

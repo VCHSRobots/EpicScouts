@@ -1,0 +1,21 @@
+/* --------------------------------------------------------------------
+** team_assignments.css -- CSS to layout the team assignment view.
+**
+** Created 01/05/16 DLB
+** --------------------------------------------------------------------
+*/
+
+#header_block {margin-top: 30px; font-size: 16pt; margin-bottom: 10px; margin-left: 10px;}
+#header_item_Name {float: left; width: 225px; text-decoration: underline;}
+#header_item_Data {float: left; width: 300px; text-decoration: underline;}
+
+
+.list_block {margin-left: 10px;}
+.line_block {margin-top: 5px; border: 1px solid; border-color: #AAAAAA; width: 650px; height: 20px;}
+.line_item_block {}
+.line_name {float: left; width: 225px; font-size: 14pt;}
+.line_item {float: left; font-size: 12pt; margin-left: 6px;}
+.line_item a {text-decoration: none; font-size: 10pt;}
+.line_item a:hover {text-decoration: underline; color: black;}
+.line_item a:visited {color: blue;} 
+

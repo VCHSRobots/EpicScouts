@@ -1,0 +1,23 @@
+/* --------------------------------------------------------------------
+** public.css -- CSS to format the public page.
+** Created 01/06/16 DLB
+** --------------------------------------------------------------------
+*/
+
+
+/* Markdown for the public info. 
+.md_public {margin-top: 10px; margin-left: 10px; font-size: 14pt; color: black;}
+.md_public h1 {font-size: 22pt; color: black;}
+.md_public h2 {font-size: 16pt; text-decoration: underline;}
+.md_public h3 {font-size: 14pt; font-weight: bold;}
+.md_public p  {margin-top: 0px; margin-bottom: 5px;}
+.md_public code {font-size: 13pt; font-weight: bold; color: #333333;}
+*/
+
+#public_login_link {}
+
+#public_login_link {font-size: 16pt; border: 1px solid; border-color: #BBBBBB; 
+	                margin-left: 100px; margin-top: 60px;
+	                width: 170px;  height: 30px; position: relative; left: 0px; top: 0px;}
+#public_login_link a {margin-top: 5px; padding: 5px 10px 5px 10px; text-decoration: none; color: #BBBBBB; position: relative; top: 4px;}
+#public_login_link a:hover {font-weight: bold; color: black;}

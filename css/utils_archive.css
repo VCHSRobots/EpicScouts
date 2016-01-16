@@ -1,0 +1,11 @@
+/* --------------------------------------------------------------------
+** utils_archive.css -- CSS to layout the archive forms.
+**
+** Created 01/11/16 DLB
+** --------------------------------------------------------------------
+*/
+
+#utils_archive_top {width: 300px;}
+#utils_archive_bot {width: 300px;}
+#utils_archive_block {width: 280px; }
+#utils_unarchive_block {width: 280px; }

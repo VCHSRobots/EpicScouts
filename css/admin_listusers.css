@@ -1,0 +1,42 @@
+/* --------------------------------------------------------------------
+** admin_listusers.css -- CSS to layout for admin list users.
+**
+** Created 01/01/16 DLB
+** --------------------------------------------------------------------
+*/
+
+/*
+.admin_userlist {font-size: 10pt; }
+.admin_userlist a {font-size: 10pt; }
+.admin_userlist a:link {color: #0000CC; }
+.admin_userlist a:visited {color: #0000CC; }
+.admin_userlist a:hover {color: #0000FF; font-weight: bold;}
+.admin_userlist a:active {color: #FFFFFF; }
+*/
+
+.admin_listusers {margin-top: 20px; font-size: 12pt; font-weight: normal;}
+
+.admin_listusers_head_1 {text-align: right; width: 30px; text-decoration: underline;}
+.admin_listusers_head_2 {width: 10px;}
+.admin_listusers_head_3 {text-align: left; width: 120px; text-decoration: underline;}
+.admin_listusers_head_4 {text-align: left; width: 120px; text-decoration: underline;}
+.admin_listusers_head_5 {text-align: left; width: 120px; text-decoration: underline;}
+.admin_listusers_head_6 {text-align: left; width: 120px; text-decoration: underline;}
+.admin_listusers_head_7 {text-align: left; width:  60px; text-decoration: underline;}
+.admin_listusers_head_8 {text-align: left; width: 200px; text-decoration: underline;}
+
+.admin_listusers_col_1 {text-align: right; font-weight: normal;}
+.admin_listusers_col_2 {}
+
+.admin_listusers_col_3 {text-align: left; font-weight: normal;}
+.admin_listusers_col_3 a {text-decoration: none; font-size: 12pt;}
+.admin_listusers_col_3 a:link {color: #0000CC; }
+.admin_listusers_col_3 a:visited {color: #0000CC; }
+.admin_listusers_col_3 a:hover {color: #0000FF; font-weight: bold;}
+.admin_listusers_col_3 a:active {color: #FFFFFF; }
+
+.admin_listusers_col_4 {text-align: left; font-weight: normal;}
+.admin_listusers_col_5 {text-align: left; font-weight: normal;}
+.admin_listusers_col_6 {text-align: left; font-weight: normal;}
+.admin_listusers_col_7 {text-align: left; font-weight: normal;}
+.admin_listusers_col_8 {text-align: left; font-weight: normal;}

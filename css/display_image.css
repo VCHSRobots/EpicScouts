@@ -1,0 +1,12 @@
+/* --------------------------------------------------------------------
+** display_image.css -- CSS to display an image.
+**
+** Created 01/03/16 DLB
+** --------------------------------------------------------------------
+*/
+
+#di_image_block {}
+#di_textcaption {border: 1px solid; width: 550px; margin-top: 20px;}
+
+#di_image {margin-top: 20px;}
+#di_image img {border: 2px solid; border-color: blue; width: 750px; max-height: 900px; }

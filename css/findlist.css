@@ -1,0 +1,70 @@
+/* --------------------------------------------------------------------
+** .css -- CSS to layout findlist pages (both simple and advanced).
+**
+** Created 01/04/16 SS
+** --------------------------------------------------------------------
+*/
+
+
+.findlist_submit {margin-top: 20px;}
+
+.findlist_submit_head_1 {text-align: left; width: 100px; font-size: 12pt; text-decoration: underline;}
+.findlist_submit_head_2 {text-align: left; width: 240px; font-size: 12pt; text-decoration: underline;}
+.findlist_submit_head_3 {text-align: left; width: 140px; font-size: 12pt; text-decoration: underline;}
+.findlist_submit_head_4 {text-align: left; width: 120px; font-size: 12pt; text-decoration: underline;}
+.findlist_submit_head_5 {text-align: left; width: 50px; font-size: 12pt; text-decoration: underline;}
+.findlist_submit_head_6 {text-align: left; width: 50px; font-size: 12pt; text-decoration: underline;}
+.findlist_submit_head_7 {text-align: left; width: 50px; font-size: 12pt; text-decoration: underline;}
+.findlist_submit_head_8 {text-align: left; width: 50px; font-size: 12pt; text-decoration: underline;}
+.findlist_submit_head_9 {text-align: left; width: 50px; font-size: 12pt; text-decoration: underline;}
+
+.findlist_submit_col_1 {text-align: left; font-weight: normal;}
+.findlist_submit_col_1 a {text-decoration: none; font-size: 12pt; }
+.findlist_submit_col_1 a:hover {color: black;}
+.findlist_submit_col_2 {text-align: left; font-size: 11pt; font-weight: normal;}
+.findlist_submit_col_3 {text-align: left; font-size: 12pt; font-weight: normal;}
+.findlist_submit_col_4 {text-align: left; font-size: 12pt; font-weight: normal;}
+.findlist_submit_col_5 {text-align: left; font-size: 12pt; font-weight: normal;}
+.findlist_submit_col_6 {text-align: left; font-size: 12pt; font-weight: normal;}
+.findlist_submit_col_7 {text-align: left; font-size: 12pt; font-weight: normal;}
+.findlist_submit_col_8 {text-align: left; font-size: 12pt; font-weight: normal;}
+.findlist_submit_col_9 {text-align: left; font-size: 12pt; font-weight: normal;}
+
+
+.findlist_selection_area { border: 2px; border-style: solid; border-color: blue; padding: 10px;
+                        margin-right: 20px; font-size: 10pt; float: left; width:600px; }
+
+.findlist_load_button {font-size: 12pt; margin-right: 15px; display: inline;}
+
+.findlist_selection {display: inline; width: auto; }
+.findlist_selection select { width: auto; font-size: 12pt;}
+.findlist_student_selection{display: inline; width: 200px;}
+.findlist_student_selection select { width: 200px; font-size: 12pt;}
+
+.findlist_simple_label {display: inline-block; font-size: 12pt; margin-top: 5px; margin-bottom: 3px; width:auto;}
+.findlist_simplebold_label {display: block; font-size: 12pt; margin-top: 5px; margin-bottom: 3px; width:auto;font-weight:bold;}
+.findlist_label {display: inline-block; font-size: 12pt; font-weight:bold;margin-top: 5px; margin-bottom: 3px; width:150px;}
+.findlist_radiolabel{display: inline-block; font-size: 12pt; margin-top: 5px; margin-bottom: 3px; width:50px;}
+.findlist_radiolonglabel{display: inline-block; font-size: 12pt; margin-top: 5px; margin-bottom: 3px; width:100px;}
+.findlist_view_label {display: inline-block; font-size: 12pt;font-weight:bold;text-align: left; margin-top: 5px; margin-bottom: 3px; width:50px;}
+.findlist_priority_label {display: inline-block; font-size: 12pt;font-weight:bold;text-align: right; margin-top: 5px; margin-bottom: 3px; width:76px;}
+.findlist_project_label {display: inline-block; font-size: 12pt;font-weight:bold;text-align: right; margin-top: 5px; margin-bottom: 3px; width:80px;}
+.findlist_requesting_label {display: inline-block; font-size: 12pt;font-weight:bold;text-align: left; margin-top: 5px; margin-bottom: 3px; width:130px;}
+.findlist_receiving_label {display: inline-block; font-size: 12pt;font-weight:bold;text-align: right; margin-top: 5px; margin-bottom: 3px; width:130px;}
+.findlist_advreceiving_label {display: inline-block; font-size: 12pt;font-weight:bold;text-align: left; margin-top: 5px; margin-bottom: 3px; width:130px;}
+.findlist_author_label {display: inline-block; font-size: 12pt; font-weight:bold;text-align: right; margin-top: 5px; margin-bottom: 3px; width:110px;}
+.findlist_assigned_label {display: inline-block; font-size: 12pt; font-weight:bold;text-align: right; margin-top: 5px; margin-bottom: 3px; width:110px;}
+.findlist_none_label {display: block; font-size: 12pt;text-align: left; margin-top: 30px; margin-bottom: 10px; width:600px;}
+
+.findlist_between_label {display: inline-block; font-size: 12pt; text-align: right; margin-top: 5px; margin-bottom: 3px; width:75px;}
+.findlist_and_label {display: inline-block; font-size: 12pt; text-align: right; margin-top: 5px; margin-bottom: 3px; width:40px;}
+.findlist_date_label {display: block; font-size: 12pt; font-weight:bold;text-align: left; margin-top: 5px; margin-bottom: 3px; width:130px;}
+.findlist_date_field {display: inline-block; margin-top: 5px; margin-right: 10px; width: auto; }
+.findlist_date_field input {width: auto; font-size: 12pt; }
+
+.findlist_title_label {display: inline-block; font-size: 12pt; font-weight:bold;text-align:left ; margin-top: 5px; margin-bottom: 3px; width:50px;}
+.findlist_text_field {display: inline-block; margin-top: 0px; margin-right: 10px; width: 300px; }
+.findlist_text_field input {width: 300px; font-size: 12pt; }
+
+.findlist_block {display: block; width: auto; padding: 2px;}
+.findlist_inlineblock {display: inline-block; width: auto; padding: 2px;}

@@ -1,0 +1,14 @@
+/* --------------------------------------------------------------------
+** utils.css -- CSS to layout utils pages.
+**
+** Created 01/11/16 DLB
+** --------------------------------------------------------------------
+*/
+
+/*Markdown for the util text.  */
+.utils_md {margin-top: 10px; margin-left: 10px; font-size: 18pt; color: black;}
+.utils_md h1 {font-size: 22pt; color: black;}
+.utils_md h2 {font-size: 18pt; text-decoration: underline;}
+.utils_md h3 {font-size: 16pt; font-weight: bold;}
+.utils_md p  {margin-top: 0px; margin-bottom: 20px; font-size: 16pt;}
+.utils_md code {font-size: 14pt; font-weight: bold; color: #333333;}

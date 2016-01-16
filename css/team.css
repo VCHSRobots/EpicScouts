@@ -1,0 +1,37 @@
+/* --------------------------------------------------------------------
+** team.css -- CSS to layout the team view..
+**
+** Created 01/04/16 DLB
+** --------------------------------------------------------------------
+*/
+
+
+#main_stats_block {margin-left: 20px; margin-top: 30px;}
+
+.team {margin-left: 15px; margin-top: 30px;}
+.team a {text-decoration: none;}
+.team a:hover {text-decoration: underline; color: black;}
+.team a:visited {color: blue;}
+
+.team_block {}
+.team_label {float: left; width: 70px; margin-left: 8px; color: #444444; font-size: 12pt; }
+.team_value {float: left; width: 125px; font-size: 16pt;}
+
+.team_head_1 {text-align: left; width: 120px; text-decoration: underline;}
+.team_head_2 {text-align: right; width: 70px; text-decoration: underline;}
+.team_head_3 {text-align: right; width: 90px; text-decoration: underline;}
+.team_head_4 {text-align: right; width: 70px; text-decoration: underline;}
+.team_head_5 {text-align: right; width: 70px; text-decoration: underline;}
+.team_head_6 {text-align: right; width: 80px; text-decoration: underline;}
+.team_head_7 {text-align: right; width: 70px; text-decoration: underline;}
+.team_head_8 {text-align: right; width: 70px; text-decoration: underline;}
+
+.team_col_1 {text-align: left; font-weight: normal;}
+.team_col_2 {text-align: right; font-weight: normal;}
+.team_col_3 {text-align: right; font-weight: normal;}
+.team_col_4 {text-align: right; font-weight: normal;}
+.team_col_5 {text-align: right; font-weight: normal;}
+.team_col_6 {text-align: right; font-weight: normal;}
+.team_col_7 {text-align: right; font-weight: normal;}
+.team_col_8 {text-align: right; font-weight: normal;}
+

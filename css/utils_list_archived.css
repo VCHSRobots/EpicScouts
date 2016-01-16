@@ -1,0 +1,29 @@
+/* --------------------------------------------------------------------
+** utils_list_archvied.css -- CSS to layout archived list
+**
+** Created 01/11/16 DLB
+** --------------------------------------------------------------------
+*/
+
+#pagetext {margin-top: 20px; }
+
+.archived_list_head_1 {text-align: left; width: 100px; text-decoration: underline;}
+.archived_list_head_2 {text-align: left; width: 300px; text-decoration: underline;}
+.archived_list_head_3 {text-align: left; width: 150px; text-decoration: underline;}
+.archived_list_head_4 {text-align: left; width: 50px; text-decoration: underline;}
+.archived_list_head_5 {text-align: left; width: 50px; text-decoration: underline;}
+.archived_list_head_6 {text-align: left; width: 50px; text-decoration: underline;}
+.archived_list_head_7 {text-align: left; width: 50px; text-decoration: underline;}
+.archived_list_head_8 {text-align: left; width: 50px; text-decoration: underline;}
+
+.archived_list_col_1 {text-align: left; font-weight: normal;}
+.archived_list_col_1 a {text-decoration: none; font-size: 12pt; }
+.archived_list_col_1 a:hover {text-decoration: underline;}
+.archived_list_col_1 a:visited {color: blue;}
+.archived_list_col_2 {text-align: left; font-weight: normal;}
+.archived_list_col_3 {text-align: left; font-weight: normal;}
+.archived_list_col_4 {text-align: left; font-weight: normal;}
+.archived_list_col_5 {text-align: left; font-weight: normal;}
+.archived_list_col_6 {text-align: left; font-weight: normal;}
+.archived_list_col_7 {text-align: left; font-weight: normal;}
+.archived_list_col_8 {text-align: left; font-weight: normal;}

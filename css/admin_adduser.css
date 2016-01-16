@@ -1,0 +1,21 @@
+/* --------------------------------------------------------------------
+** account_settings.css -- CSS to layout for account change form.
+**
+** Created 01/03/16 DLB
+** --------------------------------------------------------------------
+*/
+
+.inputform_area { width: 600px;}
+
+
+#admin_adduser_UserName {width: 200px;}
+#admin_adduser_Password {float: left; width: 275px;}
+#admin_adduser_Password2 {float: left; width: 275px; margin-left: 20px;}
+#admin_adduser_LastName {float: left; width: 275px;}
+#admin_adduser_FirstName {float: left; width: 275px;margin-left: 20px;}
+#admin_adduser_NickName {float: left; width: 275px; }
+#admin_adduser_Title {float: left; width: 275px; margin-left: 20px;}
+#admin_adduser_IPT {float: left; width: 250px;}
+#admin_adduser_Active {float: left; width: 200px; margin-left: 100px;}
+#admin_adduser_Email {float: left; width: 550px; }
+#admin_adduser_Tags {float: left; width: 550px;}

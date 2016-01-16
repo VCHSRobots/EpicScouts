@@ -1,0 +1,11 @@
+/* --------------------------------------------------------------------
+** wo_change_status.css -- CSS to layout change status form.
+**
+** Created 01/01/16 DLB
+** --------------------------------------------------------------------
+*/
+
+.inputform_area {width: 310px; margin-left: 30px;}
+.wo_status_btn {width: 200px; height: 60px;}
+.wo_status_btn input {width: 300px;}
+.btn_form_submit input {}

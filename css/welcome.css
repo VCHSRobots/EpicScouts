@@ -1,0 +1,14 @@
+/* --------------------------------------------------------------------
+** welcome.css -- CSS to layout welcome page.
+**
+** Created 01/08/16 DLB
+** --------------------------------------------------------------------
+*/
+
+/*Markdown for the welcome text.  */
+.welcome_md {margin-top: 10px; margin-left: 10px; font-size: 18pt; color: black;}
+.welcome_md h1 {font-size: 22pt; color: black;}
+.welcome_md h2 {font-size: 18pt; text-decoration: underline;}
+.welcome_md h3 {font-size: 16pt; font-weight: bold;}
+.welcome_md p  {margin-top: 0px; margin-bottom: 20px; font-size: 16pt;}
+.welcome_md code {font-size: 14pt; font-weight: bold; color: #333333;}

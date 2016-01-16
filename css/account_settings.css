@@ -1,0 +1,37 @@
+/* --------------------------------------------------------------------
+** account_settings.css -- CSS to layout for account change form.
+**
+** Created 01/03/16 DLB
+** --------------------------------------------------------------------
+*/
+
+.inputform_area { width: 500px;}
+#account_settings_instructions { width: 500px;}
+
+#account_settings_Password {float: left; width: 200px; }
+#account_settings_Password_block {}
+#account_settings_Password_label {}
+#account_settings_Password_field {}
+
+#account_settings_Password2 {float: left; width: 200px; margin-left: 20px; }
+#account_settings_Password2_block {}
+#account_settings_Password2_label {}
+#account_settings_Password2_field {}
+
+#account_settings_IPT {float: left; width: 200px; margin-left: 20px;}
+#account_settings_IPT_block {}
+#account_settings_IPT_label {}
+#account_settings_IPT_field {}
+
+#account_settings_NickName {float: left; width: 200px; }
+#account_settings_NickName_block {}
+#account_settings_NickName_label {}
+#account_settings_NickName_field {}
+
+#account_settings_Email {clear: both; left; width: 450px; }
+#account_settings_Email_block {}
+#account_settings_Email_label {}
+#account_settings_Email_field {}
+
+
+ 

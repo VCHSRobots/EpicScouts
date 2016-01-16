@@ -1,0 +1,19 @@
+/* --------------------------------------------------------------------
+** admin_edituser.css -- For edit user form
+**
+** Created 01/03/16 DLB
+** --------------------------------------------------------------------
+*/
+
+.inputform_area { width: 600px;}
+
+#admin_edituser_Password {float: left; width: 275px;}
+#admin_edituser_Password2 {float: left; width: 275px; margin-left: 20px;}
+#admin_edituser_LastName {float: left; width: 275px;}
+#admin_edituser_FirstName {float: left; width: 275px;margin-left: 20px;}
+#admin_edituser_NickName {float: left; width: 275px; }
+#admin_edituser_Title {float: left; width: 275px; margin-left: 20px;}
+#admin_edituser_IPT {float: left; width: 250px;}
+#admin_edituser_Active {float: left; width: 200px; margin-left: 100px;}
+#admin_edituser_Email {float: left; width: 550px; }
+#admin_edituser_Tags {float: left; width: 550px;}

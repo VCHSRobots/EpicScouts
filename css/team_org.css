@@ -1,0 +1,15 @@
+/* --------------------------------------------------------------------
+** team_org.css -- CSS to layout the team view..
+**
+** Created 01/05/16 DLB
+** --------------------------------------------------------------------
+*/
+
+
+.org_block {margin-top: 10px;}
+
+.team_block {float: left; width: 240px; margin-top: 20px; margin-left: 10px;}
+.team_name  {font-size: 16pt; text-decoration: underline;}
+.team_member_block {}
+.team_member {font-size: 14pt;}
+

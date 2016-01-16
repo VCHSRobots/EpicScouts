@@ -1,0 +1,19 @@
+/* --------------------------------------------------------------------
+** utils_delete.css -- CSS to layout for WO delete form.
+**
+** Created 01/0y/16 DLB
+** --------------------------------------------------------------------
+*/
+
+#utils_delete_form {width: 250px;}
+#utils_delete_WID {}
+#utils_delete_WID_block {width: 200px;}
+#utils_delete_WID_label {}
+#utils_delete_WID_field {}
+
+#utils_delete_Sure {}
+#utils_delete_Sure_block {width: 200px;}
+#utils_delete_Sure_label {}
+#utils_delete_Sure_field {}
+
+.inputfrom_instructions {}

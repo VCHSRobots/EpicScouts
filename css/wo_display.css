@@ -1,0 +1,46 @@
+/* --------------------------------------------------------------------
+** wo_display.css -- CSS to layout WO display form.
+**
+** Created 01/01/16 DLB
+** --------------------------------------------------------------------
+*/
+
+#wod_left  {float: left; width: 250px; }
+#wod_right {float: left; width: 250px; margin-left: 4px; }
+#wod_pic   {float; left; width: 80; border: 1px solid; border-color: blue; }
+.wod_pic img {width: 160px; border: 1px solid; border-color: blue;}
+
+.wo_block {}
+.wo_label {float: left; width: 100px; margin-left: 8px; color: #444444; font-size: 12pt; }
+.wo_value {float: left; width: 125px;}
+
+#wod_Work_block {width: 650px; margin-top: 20px;}
+#wod_Work_value {margin-left: 8px; margin-top: 8px; color: black; 
+	            font-family: monospace; font-size: 12pt; width: 650px;
+	            padding: 2px;
+	        	border: 1px solid; border-color: #888888;}
+
+#appened_data_label {margin-top: 12px; margin-left: 8px; color: #444444; }
+
+#assigned_worker_block {margin-top: 12px; margin-left: 8px; }
+#assigned_worker_label {float: left; color: #444444; marginm }
+#assigned_worker_list {float: left; margin-left: 20px;}
+.assigned_workder {font-size: 14px;}
+
+
+.wo_ap_block  {margin-top: 4px; margin-bottom: 10px; margin-left: 8px; }
+.wo_ap_header {width: 100; float: left; font-size: 14px; min-width: 100px;}
+.wo_ap_body   {float: left;}
+
+.wo_ap_text   {border: 1px solid; border-color: #888888; margin-left: 10px; padding: 2px;
+	           width: 550px; min-height: 40px; font-family: monospace; font-size: 12pt; }
+
+.wo_ap_image  {float: left; border: 1px solid; border-color: blue; margin-top: 0px; margin-left: 10px;}
+.wo_ap_image img {width: 80px;}
+.wo_ap_text_i {float: left; border: 1px solid; border-color: #888888; 
+			   margin-left: 10px; padding: 2px;
+	           width: 458px; min-height: 50px; font-family: monospace; font-size: 12pt; }
+
+.wo_ap_text_sys {float: left; border: 1px solid; border-color: #888888; 
+			     margin-left: 10px; padding: 2px;
+	             width: 550px; min-height: 10px; font-size: 12pt; }

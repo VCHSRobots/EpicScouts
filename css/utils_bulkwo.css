@@ -1,0 +1,53 @@
+/* --------------------------------------------------------------------
+** utils_bulkwo.css -- CSS to layout work order for bulk
+**
+** Created 01/06/16 DLB
+** --------------------------------------------------------------------
+*/
+
+#utils_bulkwo_Title {clear: both; width: 600px;}
+#utils_bulkwo_Title_block {}
+#utils_bulkwo_Title_label {}
+#utils_bulkwo_Title_field {}
+
+#utils_bulkwo_Project {float: left; width: 240px; height: 100px;}
+#utils_bulkwo_Project_block {}
+#utils_bulkwo_Project_label {}
+#utils_bulkwo_Project_field {}
+
+#utils_bulkwo_DateNeedBy {float: left; width: 200px; margin-left: 5px; height: 100px;}
+#utils_bulkwo_DateNeedBy_block {}
+#utils_bulkwo_DateNeedBy_label {}
+#utils_bulkwo_DateNeedBy_field {}
+
+#utils_bulkwo_Priority {float: left; width: 130px; margin-left: 20px; height: 100px;}
+#utils_bulkwo_Priority_block {}
+#utils_bulkwo_Priority_label {}
+#utils_bulkwo_Priority_field {}
+
+#utils_bulkwo_Requestor {float: left; width: 240px; position: relative; top: -10px;}
+#utils_bulkwo_Requestor_block {}
+#utils_bulkwo_Requestor_label {}
+#utils_bulkwo_Requestor_field {}
+
+#utils_bulkwo_Author {float: left; width: 300px; position: relative; top: -10px;}
+#utils_bulkwo_Author_block {}
+#utils_bulkwo_Author_label {}
+#utils_bulkwo_Author_field {}
+
+#utils_bulkwo_FilterTags {float: left; width: 400px; position: relative; top: -10px;}
+#utils_bulkwo_FilterTags_block {}
+#utils_bulkwo_FilterTags_label {}
+#utils_bulkwo_FilterTags_field {}
+
+#utils_bulkwo_Receiver {float: left; width: 240px; position: relative; top: -10px;}
+#utils_bulkwo_Receiver_block {}
+#utils_bulkwo_Receiver_label {}
+#utils_bulkwo_Receiver_field {}
+
+#utils_bulkwo_Description {clear: both; }
+#utils_bulkwo_Description_block {}
+#utils_bulkwo_Description_label {}
+#utils_bulkwo_Description_field { font-size: 16px;  font-family: monospace;}
+ 
+#view_button {}

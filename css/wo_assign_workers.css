@@ -1,0 +1,14 @@
+/* --------------------------------------------------------------------
+** wo_assign_worksers.css -- CSS to layout assign workers form.
+**
+** Created 01/03/16 DLB
+** --------------------------------------------------------------------
+*/
+
+#assignment_block   {float: left; width: 350px;}
+#worker_info_block  {float: left; width: 350px;}
+#wo_aw_top {height: 150px;}
+#wo_aw_bot {height: 150px;}
+.wo_aw_info {margin-left: 40px;  margin-top: 15px; margin-bottom: 10px; }
+#wo_aw_title {text-decoration: underline; }
+.wo_aw_worker {margin-left: 50px; margin-top: 5px;}
