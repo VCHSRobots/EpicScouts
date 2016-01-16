@@ -1,4 +1,4 @@
-README File for EpicTeam Project
+README File for EpicScouts Project
 =================================
 01/16/2016
 
@@ -31,4 +31,4 @@ Tools used to develop on a Windows Machine
 Good Luck
 
 Contact: Dal Brandon
-dalbrandon@gmail.com.# EpicScouts
+dalbrandon@gmail.com.
