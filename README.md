@@ -31,4 +31,4 @@ Tools used to develop on a Windows Machine
 Good Luck
 
 Contact: Dal Brandon
-dalbrandon@gmail.com.
+dalbrandon@gmail.com.# EpicScouts
